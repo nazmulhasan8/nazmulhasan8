@@ -1,4 +1,4 @@
-<h1 align="center">Full-Stack Developer</h1> <p align="left"> Hello!! I am Nazmul Hasan. I am a Full-Stack Developer with expertise in HTML5, CSS3, JavaScript, TypeScript, React.js, Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. Eager to contribute my skills in turning ideas into dynamic web solutions. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.</p>
+<h1 align="center">Full-Stack Developer</h1> <p align="left"> Hello!! I am Nazmul Hasan. I am a Full-Stack Developer with expertise in HTML5, CSS3, JavaScript, React.js, Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. Eager to contribute my skills in turning ideas into dynamic web solutions. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.</p>
 <h3 align="center">I'm based in Dhaka, Bangladesh</h3>
 - 🔭 I’m currently working on [Social Media Communication Website](https://lighthearted-pasca-80d87e.netlify.app/)
 
